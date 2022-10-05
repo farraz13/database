@@ -17,4 +17,4 @@ INSERT INTO jurusan VALUES('agribisnis','1'),('kedokteran','2'),('kesenian','3')
 
 INSERT INTO dosen VALUES('Asep zaenudin','6969'),('Jajang maulana','1234'),('Ujang phantom','2900');
 
-INSERT INTO khs VALUES('1','130903','1','6666','S+');
+INSERT INTO khs VALUES('1','130903','1','6666','S+')
